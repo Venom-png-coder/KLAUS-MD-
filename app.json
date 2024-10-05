@@ -16,7 +16,7 @@
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "self"
+      "value": "public"
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
