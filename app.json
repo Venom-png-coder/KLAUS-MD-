@@ -5,7 +5,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Venom-png-coder/KLAUS-MD-/edit/main/app.json",
+  "repository": "https://github.com/Venom-png-coder/KLAUS-MD-/blob/main/app.json,"
   "stack": "container",
   "env": { 
       "SESSION_ID": {
