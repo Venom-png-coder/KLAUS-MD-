@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: KLAUS-MD 
+    name: QUEEN VENOM-MD 
     env: node
     branch: main
     repo: https://github.com/DRK-S-TEN/KLAUS-MD-.git
@@ -16,4 +16,4 @@ services:
       - key: MODE
         value: public
       - key: AUTO_REACT
-        value: false
+        value: true
